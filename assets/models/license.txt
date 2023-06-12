@@ -1,0 +1,11 @@
+Model Information:
+* title:	Military Blockpost S.T.A.L.K.E.R
+* source:	https://sketchfab.com/3d-models/military-blockpost-stalker-4f673c3c433944d89e9dc2a3dff855f7
+* author:	Stalker_3Dmodeles (https://sketchfab.com/Stalker_3Dmodeles)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Military Blockpost S.T.A.L.K.E.R" (https://sketchfab.com/3d-models/military-blockpost-stalker-4f673c3c433944d89e9dc2a3dff855f7) by Stalker_3Dmodeles (https://sketchfab.com/Stalker_3Dmodeles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
