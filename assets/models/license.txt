@@ -1,11 +1,11 @@
 Model Information:
-* title:	Military Blockpost S.T.A.L.K.E.R
-* source:	https://sketchfab.com/3d-models/military-blockpost-stalker-4f673c3c433944d89e9dc2a3dff855f7
-* author:	Stalker_3Dmodeles (https://sketchfab.com/Stalker_3Dmodeles)
+* title:	Biplane 'Trouble in Paradise' Asset
+* source:	https://sketchfab.com/3d-models/biplane-trouble-in-paradise-asset-75d927c0c5824e77808b7e822a833bc0
+* author:	Icarus (https://sketchfab.com/Icarius)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Military Blockpost S.T.A.L.K.E.R" (https://sketchfab.com/3d-models/military-blockpost-stalker-4f673c3c433944d89e9dc2a3dff855f7) by Stalker_3Dmodeles (https://sketchfab.com/Stalker_3Dmodeles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Biplane 'Trouble in Paradise' Asset" (https://sketchfab.com/3d-models/biplane-trouble-in-paradise-asset-75d927c0c5824e77808b7e822a833bc0) by Icarus (https://sketchfab.com/Icarius) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
