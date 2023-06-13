@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     scene.add(light);
 
     const gltf = await loadGLTF('./assets/models/scene.gltf');
-    gltf.scene.scale.set(0.002, 0.002, 0.002);
-    gltf.scene.position.set(0.6,1.2,0);
+    gltf.scene.scale.set(0.0015, 0.0015, 0.0015);
+    gltf.scene.position.set(0.4,0.9,0);
     gltf.scene.rotation.set(1, 0, -1.5);
 
     const anchor1 = mindarThree.addAnchor(0);
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const texture = new THREE.VideoTexture(video);
 
     // making a plane to play the video
-    const geometry = new THREE.PlaneGeometry(1.5, 304/280);
+    const geometry = new THREE.PlaneGeometry(1, 0.8);
     const material = new THREE.MeshBasicMaterial({map: texture});
     const plane = new THREE.Mesh(geometry, material);
  
